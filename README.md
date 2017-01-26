@@ -10,8 +10,9 @@ A project created by the E-Commerce PM shop at Sussex County Technical School
 <li>Lead Developer: Scott</li>
 <li>Co-Lead/Server Management: Nick</li>
 
-<li>Lead Design: Dana</li>
-<li>Design: Jake & Julian</li>
+####Design Team:
+<li>Lead Designer: Dana</li>
+<li>Designers: Jake & Julian</li>
 
 ####Front End Devs:
 <li>Jake - Senior Lead</li>
