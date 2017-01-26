@@ -2,14 +2,16 @@
 
 A project created by the E-Commerce PM shop at Sussex County Technical School
 
-Project Manager: JP
-Junior Project Manager/Transition Team: Dan
 
-Lead Developer: Scott
-Co-Lead/Server Management: Nick
+<li>Project Manager: JP</li>
+<li>Junior Project Manager/Transition Team: Dan</li>
 
-Lead Design: Dana
-Design: Jake & Julian
+
+<li>Lead Developer: Scott</li>
+<li>Co-Lead/Server Management: Nick</li>
+
+<li>Lead Design: Dana</li>
+<li>Design: Jake & Julian</li>
 
 ####Front End Devs:
 Jake - Senior Lead
