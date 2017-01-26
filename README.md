@@ -23,6 +23,6 @@ A project created by the E-Commerce PM shop at Sussex County Technical School
 
 ####Back End Devs:
 <li>Nate - Senior Lead</li>
-</li>Steve - Junior Lead</li>
+<li>Steve - Junior Lead</li>
 <li>Ryan</li>
 <li>Dan</li>
