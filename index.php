@@ -2,13 +2,11 @@
 ?>
 
 <html>
-minecraft.run
-succ.exe
 
 <body>
 
 <h1>Hello</h1>
-
+hackervoice.exe
+echo "I'm in!";
 </body>
-
 </html>
