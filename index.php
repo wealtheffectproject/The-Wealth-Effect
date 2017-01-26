@@ -2,7 +2,8 @@
 ?>
 
 <html>
-
+minecraft.run
+succ.exe
 
 <body>
 
