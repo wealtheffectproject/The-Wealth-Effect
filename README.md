@@ -14,14 +14,14 @@ A project created by the E-Commerce PM shop at Sussex County Technical School
 <li>Design: Jake & Julian</li>
 
 ####Front End Devs:
-Jake - Senior Lead
-Grant - Junior Lead
-Dan
-Trevor
-Auset
+<li>Jake - Senior Lead</li>
+<li>Grant - Junior Lead</li>
+<li>Dan</li>
+<li>Trevor</li>
+<li>Auset</li>
 
 ####Back End Devs:
-Nate - Senior Lead
-Steve - Junior Lead
-Ryan
-Dan
+<li>Nate - Senior Lead</li>
+</li>Steve - Junior Lead</li>
+<li>Ryan</li>
+<li>Dan</li>
