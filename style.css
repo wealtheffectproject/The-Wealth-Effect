@@ -1,5 +1,9 @@
 @CHARSET "UTF-8";
 
+html {
+    background-color: #e0f7ff;
+}
+
 h1 {
     text-align: center;
 }
