@@ -26,3 +26,4 @@ A project created by the E-Commerce PM shop at Sussex County Technical School
 <li>Steve - Junior Lead</li>
 <li>Ryan</li>
 <li>Dan</li>
+<li>Aidan</li>
