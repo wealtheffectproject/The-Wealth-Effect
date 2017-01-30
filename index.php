@@ -10,15 +10,15 @@
 </head>
 
 <body>
-
+<div class="input-group">
+  <span class="input-group-addon" id="sizing-addon2">@</span>
+  <input type="text" class="form-control" placeholder="Username" aria-describedby="sizing-addon2">
+</div>
 <h1>The Wealth Effect</h1>
-
-<div> 
+<div class=buttons>
 <a href="http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html" id="button 1" ><button type="button" class="btn btn-default">Button 1</button></a>
   <button type="button" class="btn btn-default">Button 2</button>
-  <button type="button" class="btn btn-default">Button 3</button>
 </div>
-
 
 <h3> About the Wealth Effect </h3>
 <p>   
