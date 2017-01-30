@@ -1,0 +1,12 @@
+ @CHARSET "UTF-8";
+
+
+/*Banner Color default #85C1E9 
+Banner secondary #3498DB*/
+body {
+    background-color: #e0f7ff;
+}
+
+h1 {
+    text-align: center;
+}
