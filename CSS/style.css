@@ -1,12 +1,43 @@
- @CHARSET "UTF-8";
+@charset "utf-8";
+/* CSS Document */
 
-
-/*Banner Color default #85C1E9 
-Banner secondary #3498DB*/
-body {
-    background-color: #e0f7ff;
+.navbar-color {
+	background:#0093FF;
 }
 
-h1 {
-    text-align: center;
+.mainback {
+	z-index:1;
+	height:100%;
+	width:100%;
+	background-image:url(../Images/money.jpg);
+	background-size:cover;
+	background-attachment:fixed;	
 }
+
+.head {
+	z-index:2;	
+	left: 0;
+    margin: auto;
+    margin-top: -100px;
+    position:fixed;
+    top: 50%;
+    width: 100%;
+	text-align:center;
+	color:#00ABFF;
+	background-color:rgba(255,255,255,0);
+}
+
+.head h1 {
+	font-size:5em;
+}
+
+.about {
+	margin-top:0;
+	height:100%;
+	width:100%;
+	background-color:rgba(255,255,255,0);
+	font-size:5em;
+	display:flex;
+}
+
+

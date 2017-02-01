@@ -4,39 +4,54 @@
 
 <head>
 <title>The Wealth Effect</title>
+<link rel="icon" href="Images/wandie.jpg">
+<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 
-<body>
-<div class="input-group">
-  <span class="input-group-addon" id="sizing-addon2">@</span>
-  <input type="text" class="form-control" placeholder="Username" aria-describedby="sizing-addon2">
-</div>
-<h1>The Wealth Effect</h1>
-<div class=buttons>
-<a href="http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html" id="button 1" ><button type="button" class="btn btn-default">Button 1</button></a>
-  <button type="button" class="btn btn-default">Button 2</button>
+<div class="container">
+	<nav class="navbar navbar-fixed-top navbar-color">
+		<div class="navbar-brand">The Wealth Effect</div>
+	</nav>
 </div>
 
-<h3> About the Wealth Effect </h3>
-<p>   
-How should I start it?
-"You like jazz?" No, that's no good.
-Here she comes! Speak, you fool!
-Hi!
-I'm sorry.  
-- You're talking.
-- Yes, I know.
-You're talking!
-I'm so sorry.
-No, it's OK. It's fine.
-I know I'm dreaming.
-</p>
+<div class="mainback">
+	<section class="head">
+		<h1>The Wealth Effect</h1>
+		<h3>Invest In your Future</h3>
+	</section>
+</div>
 
-<!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+ <section class="about">
+    <h1>Hel<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+lo</h1>
+    </section>
+
+
 
 </body>
 </html>
