@@ -4,6 +4,7 @@
 
 <head>
 <title>The Wealth Effect</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" href="Images/wandie.jpg">
 <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
 <!-- Latest compiled and minified CSS -->
@@ -13,45 +14,27 @@
 <link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 
-<div class="container">
-	<nav class="navbar navbar-fixed-top navbar-color">
+
+<nav class="navbar navbar-fixed-top navbar-color">
+	<div class="container">
 		<div class="navbar-brand">The Wealth Effect</div>
-	</nav>
+    </div>
+</nav>
+
+
+
+<div id="wrapper">
+	<div id="head" class="head-back">
+    	<h1>The Wealth Effect</h1>
+    	<h2>Invest In Your Future</h2>
+        <button class="btn-lg btn-primary">Learn More</button>
+	</div>
+    <div class="container">
+    <div id="about">
+    	<h1>he<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>llo</h1>
+    </div>
+    </div>
 </div>
-
-<div class="mainback">
-	<section class="head">
-		<h1>The Wealth Effect</h1>
-		<h3>Invest In your Future</h3>
-	</section>
-</div>
-
- <section class="about">
-    <h1>Hel<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-lo</h1>
-    </section>
-
-
 
 </body>
 </html>
