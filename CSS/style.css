@@ -5,6 +5,9 @@
 Banner secondary #3498DB*/
 body {
     background-color: #e0f7ff;
+    background:url("http://i.imgur.com/rxSak6Lb.jpg") no-repeat fixed center;
+    background-size:400px;
+    
 }
 
 h1 {
