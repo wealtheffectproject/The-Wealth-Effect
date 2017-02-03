@@ -6,27 +6,22 @@
 <title>The Wealth Effect</title>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-<link rel="stylesheet" href="css/style.css" type="text/css">
+<link rel="stylesheet" href="CSS/style.css" type="text/css">
 </head>
 <body>
+<body background="bgimage.jpg">
 
-
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-inverse">
   <div class="container-fluid">
    
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <h1>The Wealth Effect</h1>
+            <h3>The</h3>
+            <h1>Wealth Effect</h1>
     </div>
       <form id="signin" class="navbar-form navbar-right" role="form">
                         <div class="input-group">
                             <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-                            <input id="email" type="email" class="form-control" name="email" value="" placeholder="Email Address">                                        
+                            <input id="email" type="email" class="form-control" name="email" value="" placeholder="Username">                                        
                         </div>
 
                         <div class="input-group">
@@ -47,7 +42,7 @@
 <a href="http://www.sanger.dk/" id="button 4" ><button type="button" class="btn btn-default">Budget</button></a>
 </div>
 
-
+<div class="about">
 <h3> About the Wealth Effect </h3>
 <p>   
 How should I start it?
@@ -62,6 +57,10 @@ I'm so sorry.
 No, it's OK. It's fine.
 I know I'm dreaming.
 </p>
+</div>
+<div class="jumbotron">
+<h1> What is the Wealth Effect? </h1>
+<p>.....</p>
 
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>

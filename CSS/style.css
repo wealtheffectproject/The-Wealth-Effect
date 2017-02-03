@@ -6,7 +6,20 @@ Banner secondary #3498DB*/
 body {
     background-color: #e0f7ff;
 }
+ 
+.navbar-default {
+    background-color: #3f98db;
+    border-color: #163349;
+}
 
 h1 {
-    text-align: center;
+    color: #FFFFFF;
+}
+
+.navbar-header {
+    color: #EA1919;
+}
+
+.navbar-back {
+    background: #0093FF;
 }
