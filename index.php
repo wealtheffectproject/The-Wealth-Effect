@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="CSS/style.css" type="text/css">
 </head>
 <body>
-<body background="bgimage.jpg">
+
 
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
@@ -18,7 +18,8 @@
             <h3>The</h3>
             <h1>Wealth Effect</h1>
     </div>
-      <form id="signin" class="navbar-form navbar-right" role="form">
+    
+      <form id="signin" class="navbar-form navbar-right" role="form" action="login.php" method="post">
                         <div class="input-group">
                             <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
                             <input id="email" type="email" class="form-control" name="email" value="" placeholder="Username">                                        
@@ -59,9 +60,9 @@ I know I'm dreaming.
 </p>
 </div>
 <div class="jumbotron">
-<h1> What is the Wealth Effect? </h1>
+-
 <p>.....</p>
-
+<footer> swag </footer>
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 

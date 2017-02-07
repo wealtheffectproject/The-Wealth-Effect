@@ -1,25 +1,39 @@
 @CHARSET "UTF-8";
 
-
-/*Banner Color default #85C1E9 
-Banner secondary #3498DB*/
 body {
-    background-color: #e0f7ff;
+    background-color: #FFFFFF;
 }
  
-.navbar-default {
-    background-color: #3f98db;
-    border-color: #163349;
-}
-
-h1 {
-    color: #FFFFFF;
+.navbar-inverse {
+    background-color: #0066cc;
+    border-color: #66b3ff;
+    border-bottom-width:20px;
 }
 
 .navbar-header {
-    color: #EA1919;
+    -webkit-text-stroke: 1px #000000;
+    color: #FFFFFF;
+    font-family: "Times New Roman", Times, serif;
 }
 
 .navbar-back {
     background: #0093FF;
+}
+
+.about {
+    color: #000000;
+}
+
+h1 {
+    font-size:60px;
+    margin-top:1px;
+    margin-bottom:1px;
+    font-style: bold;
+}
+
+h3 {
+    font-size:35px;
+    margin-top:1px;
+    margin-bottom:1px;
+    font-style:bold;
 }
