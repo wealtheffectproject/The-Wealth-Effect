@@ -9,6 +9,6 @@ $user = $_POST['email'];
 $pass = $_POST['password'];
 // Create connection
 $conn = mysqli_connect($servername, $username, $password);
-
+if(mysqli_query($conn,))
 
 ?> 
