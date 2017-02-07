@@ -8,6 +8,7 @@ body {
     background-color: #0066cc;
     border-color: #66b3ff;
     border-bottom-width:20px;
+    margin-bottom:6px;
 }
 
 .navbar-header {
@@ -35,5 +36,20 @@ h3 {
     font-size:35px;
     margin-top:1px;
     margin-bottom:1px;
-    font-style:bold;
+    font-style: bold;
+}
+
+.btn-primary {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+.btn:hover
+{
+    background-image:none;
+    background-color:#888888;
+}
+
+.buttons {
+    margin: 1px;    
 }
