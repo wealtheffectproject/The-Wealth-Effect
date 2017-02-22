@@ -14,8 +14,8 @@ $pass = $_POST['password'];
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, 'wealth_effect');
 //Query
-$q = 'SELECT * FROM students WHERE username="' . $user . '"';
-if(mysqli_query($conn, $q)){
+$q = 'SELECT * FROM students WHERE username="' . $user . '" OR email="' . $user . '"';
+if(numRows(mysqli_query($conn, $q)) > 0){
     echo "User exists";
     echo mysqli_query($conn, $q);
 }
